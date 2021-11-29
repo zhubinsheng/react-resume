@@ -1,0 +1,12 @@
+version: '2'
+services:
+  resume:
+    ports:
+      - 9991:80
+    build:
+      context: ./
+    container_name: resume
+    hostname: resume
+    restart: on-failure
+    environment:
+      - TZ=Asia/Shanghai

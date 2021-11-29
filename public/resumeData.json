@@ -1,8 +1,8 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "朱斌生",
+    "occupation": "(热像科技)",
+    "description": "全栈，专注安卓,目前在学ai的视觉方面和音视频应用,苦学code，让自己变得最优秀",
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -10,7 +10,7 @@
     "phone": "555-555-5555",
     "address": {
       "street": "(Your Street)",
-      "city": "(Your City)",
+      "city": "(上海)",
       "state": "(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
